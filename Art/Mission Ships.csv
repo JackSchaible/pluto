@@ -1,16 +1,16 @@
 ---,Mission,Grid Position,Unit,Faction
-1,Mission1,"(X=34,Y=74)",Interceptor,TheDominion
-2,Mission1,"(X=22,Y=84)",Interceptor,TheDominion
-3,Mission1,"(X=31,Y=39)",Interceptor,TheDominion
-4,Mission1,"(X=38,Y=40)",Interceptor,TheDominion
-5,Mission1,"(X=19,Y=41)",Interceptor,TheDominion
-6,Mission1,"(X=13,Y=85)",Interceptor,TheDominion
-7,Mission1,"(X=33,Y=83)",Assault Craft,TheDominion
-8,Mission1,"(X=34,Y=41)",Assault Craft,TheDominion
-9,Mission1,"(X=8,Y=46)",Assault Craft,TheDominion
-10,Mission1,"(X=25,Y=86)",Assault Craft,TheDominion
-11,Mission1,"(X=43,Y=49)",Corvette,TheDominion
-12,Mission1,"(X=55,Y=62)",Corvette,TheDominion
-13,Mission1,"(X=8,Y=72)",Corvette,TheDominion
-14,Mission1,"(X=13,Y=87)",Corvette,TheDominion
-15,Mission1,"(X=28,Y=86)",Player Ship,Ethan
+1,Mission1,"(X=28,Y=78)",PlayerShip,Ethan
+2,Mission1,"(X=34,Y=74)",Interceptor,TheDominion
+3,Mission1,"(X=22,Y=84)",Interceptor,TheDominion
+4,Mission1,"(X=31,Y=39)",Interceptor,TheDominion
+5,Mission1,"(X=38,Y=40)",Interceptor,TheDominion
+6,Mission1,"(X=19,Y=41)",Interceptor,TheDominion
+7,Mission1,"(X=13,Y=85)",Interceptor,TheDominion
+8,Mission1,"(X=33,Y=83)",AssaultCraft,TheDominion
+9,Mission1,"(X=34,Y=41)",AssaultCraft,TheDominion
+10,Mission1,"(X=8,Y=46)",AssaultCraft,TheDominion
+11,Mission1,"(X=25,Y=86)",AssaultCraft,TheDominion
+12,Mission1,"(X=43,Y=49)",Corvette,TheDominion
+13,Mission1,"(X=55,Y=62)",Corvette,TheDominion
+14,Mission1,"(X=8,Y=72)",Corvette,TheDominion
+15,Mission1,"(X=13,Y=87)",Corvette,TheDominion
