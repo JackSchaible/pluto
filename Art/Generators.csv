@@ -1,0 +1,9 @@
+---,Type,Name,Description,Generation Value
+Gas,Gas,Combustion Generator,Burns HFS fuel in a high-efficiency diesel cycle to generate power.,5000
+Fission,Fission,Fission Reactor,"Splits heavy atomic nuclei, typically uranium or thorium, to produce heat for energy generation.",25000
+ICFFusion,ICFFusion,ICF Fusion Reactor,Uses inertial confinement fusion (ICF) with laser compression to fuse hydrogen isotopes and release energy.,100000
+Thermofusion,Thermofusion,Tokamak Reactor,A magnetic confinement fusion reactor that sustains plasma within a toroidal magnetic field.,250000
+Wormhole,Wormhole,Wormhole Siphon,"Uses a stabilized micro-wormhole to extract stellar plasma from a nearby star, feeding a fusion reactor.",500000
+ZPM,ZPM,Quantum Extractor,"Taps into vacuum energy fluctuations, siphoning usable energy from spacetime itself.",1000000
+Antimatter,Antimatter,Positron Reactor,"Combines positrons and electrons in a controlled annihilation reaction, producing immense energy output.",5000000
+Neutrino,Neutrino,Neutrino Trap,"Captures high-energy neutrinos using an exotic interaction lattice, converting them into usable power.",10000000
