@@ -1,60 +1,60 @@
-Label,Name,Description,Damage,Power Requirement,Additional Effects
-"CX_238RetroStyker","CX-238 RetroStyker","A turret-mounted retro weapon system with balanced performance for space combat.",1,1,""
-"CX_238CDCorrodeCaster","CX-238/CD CorrodeCaster","A turret weapon that fires corrosive rounds to erode enemy hulls in orbital skirmishes.",2,2,""
-"CX_238TNTitanStryke","CX-238/TN TitanStryke","A heavy turret system delivering crushing strikes for starship battles.",3,3,""
-"CX_238DUWWasteWrecker","CX-238/DUW WasteWrecker","A turret-mounted cannon disintegrating enemy shields with toxic blasts.",4,4,""
-"CX_238MMagRailEnhancer","CX-238/M MagRail Enhancer","An advanced turret launcher boosting railgun projectiles for rapid fire in space.",5,5,""
-"OS_X17FlakStormDisruptor","OS-X17 FlakStorm Disruptor","A turret that unleashes a storm of flak to disrupt incoming enemy salvos.",6,6,""
-"OS_X17WWideBurstExpander","OS-X17-W WideBurst eXpander","A turret variant widening its shot spread for effective area denial.",7,7,""
-"OS_X17DHDenseHailExpander","OS-X17-DH Dense Hail eXpander","A turret-mounted system that fires concentrated bursts for pinpoint suppression.",8,8,""
-"PRS_SB101HellfireLaunchSystem","PRS-SB101 Hellfire Launch System","A turret system launching incendiary missiles to scorch enemy spacecraft.",9,9,""
-"PRS_SB101ISMFireSeekerModule","PRS-SB101-ISM Fire Seeker Module","A turret module homing in on heat signatures for fiery target acquisition.",10,10,""
-"PRS_SB101IEIonBoostAccelerator","PRS-SB101-IE Ion Boost Accelerator","A turret enhancement that accelerates ionized projectiles for rapid impacts.",11,11,""
-"PRS_SB101SRFSonicResonatorPenetrator","PRS-SB101-SRF Sonic Resonator Penetrator","A turret weapon emitting sonic pulses to destabilize enemy armor.",12,12,""
-"PRS_SB101AESFluorErodeEnhancer","PRS-SB101-AES Fluor-Erode Enhancer","A turret system using chemical erosion to gradually wear down enemy defenses.",13,13,""
-"PRS_SB101FDSFungalDecelerator","PRS-SB101-FDS Fungal Decelerator","A turret module dispersing spore clouds to slow enemy maneuvers in space.",14,14,""
-"OS_LC100RHIRadiowaveHeadInducer","OS-LC100RHI Radiowave Head Inducer","A turret-mounted system that scrambles enemy sensors with radiowave pulses.",15,15,""
-"OS_LC100RHIMiMMicrowaveIntensifierModule","OS-LC100RHI-MiM Microwave Intensifier Module","A turret add-on intensifying microwave bursts for internal system damage.",16,16,""
-"OS_LC100RHIMiAMissileInterceptorArray","OS-LC100RHI-MiA Missile Interceptor Array","A turret variant featuring an array to intercept and neutralize incoming missiles.",17,17,""
-"UVB_PBUltravioletBPenetratorBeam","UVB-PB Ultraviolet-B Penetrator Beam","A turret weapon firing high-energy UV beams to breach enemy shields.",18,18,""
-"XRPEXRayPulseEmitter","X-Ray Pulse Emitter","A turret-mounted emitter delivering focused X-ray pulses for structural weakening.",19,19,""
-"GWDGammaWaveDevastator","Gamma-Wave Devastator","A turret system bombarding foes with lethal gamma waves from starship mounts.",20,20,""
-"AGPSRavenGuidedPlutoniumStriker","Raven-Guided Plutonium Striker","A turret with advanced guidance launching plutonium strikes on enemy vessels.",21,21,""
-"MFDMagneticallyFocusedDetonationModule","Magnetically-Focused Detonation Module","A turret module that channels magnetic energy for explosive blasts.",22,22,""
-"DSNRMDualStageNuclearRecombinatorModule","Dual-Stage Nuclear Recombinator Module","A turret-based nuclear system combining stages for catastrophic power.",23,23,""
-"GMGravitonModule","Graviton Module","A turret weapon that manipulates gravitational forces to destabilize enemy craft.",24,24,""
-"MAAWAntimatterAnnihilationWarhead","Antimatter Annihilation Warhead","A turret-launched warhead triggering antimatter reactions for total annihilation.",25,25,""
-"GWMLGravityWellMissileLauncher","Gravity Well Missile Launcher","A turret missile system that generates gravity wells to trap targets.",26,26,""
-"NMtGBeamNeutronMuonToGravitonBeam","Beam Neutron-Muon to Graviton Beam","A turret-mounted beam converting subatomic particles into crushing graviton force.",27,27,""
-"GRWGravityRipper","Gravity Ripper","A turret weapon that tears through enemy defenses using gravitational distortions.",28,28,""
-"WPMWormholeProjectionMissile","Wormhole Projection Missile","A turret missile system capable of projecting wormholes for surprise strikes.",29,29,""
-"SCEMStellarCoreEjectionModule","Stellar-Core Ejection Module","A turret module ejecting stellar core fragments to batter enemy shields.",30,30,""
-"NSEMNeutronDegenerateMatterBeam","Neutron-Degenerate Matter Beam","A turret beam firing ultra-dense matter to pierce heavy space armor.",31,31,""
-"BHEMBlackHoleEjectionModule","Black Hole Ejection Module","A turret system ejecting micro black holes to absorb enemy fire.",32,32,""
-"MWMMicroWormholeModule","Micro Wormhole Module","A turret add-on generating micro wormholes to bypass enemy defenses.",33,33,""
-"RPMLRDXProximityMineLauncher","RDX Proximity Mine Launcher","A turret weapon deploying proximity mines to secure its firing arc.",34,34,""
-"PPMLPlutoniumMineLauncher","Plutonium Mine Launcher","A turret system scattering plutonium mines to deter enemy approaches.",35,35,""
-"GPMLBlackHoleMineLauncher","Black Hole Mine Launcher","A turret launcher dropping gravitational mines that pull in targets.",36,36,""
-"TDMLTimeDilationMineLauncher","Time-Dilation Mine Launcher","A turret device deploying mines that distort time to slow enemy advances.",37,37,""
-"AGMLCasimirMineLauncher","Casimir Mine Launcher","A turret weapon utilizing quantum effects to launch disruptive Casimir mines.",38,38,""
-"PPCPulsedPlasmaCannon","Pulsed Plasma Cannon","A turret-mounted cannon delivering bursts of superheated plasma energy.",39,39,""
-"RNARapidNucleosynthesisAccelerator","Rapid Nucleosynthesis Accelerator","A turret add-on accelerating nuclear reactions for explosive impacts.",40,40,""
-"XPIXenonPlasmaInfuser","Xenon Plasma Infuser","A turret system infusing xenon plasma into continuous high-energy beams.",41,41,""
-"DPCDualProtonConverger","Dual Proton Converger","A turret weapon merging dual proton streams for concentrated power.",42,42,""
-"EBCElectronBeamConverger","Electron Beam Converger","A turret-mounted converger firing focused electron beams for precision strikes.",43,43,""
-"GBCGravitonBeamConverger","Graviton Beam Converger","A turret system that combines beams to create overwhelming gravitational overload.",44,44,""
-"GFCProtonFusionCannon","Proton Fusion Cannon","A turret cannon igniting proton fusion reactions to obliterate enemy craft.",45,45,""
-"GBDGlueballDisruptor","Glueball Disruptor","A turret-mounted disruptor destabilizing matter with exotic subatomic particles.",46,46,""
-"MMBMagneticMonopoleBeam","Magnetic Monopole Beam","A turret weapon emitting magnetic monopole beams to distort enemy fields.",47,47,""
-"PSGPionShatterGun","Pion Shatter Gun","A turret system using pion emissions to fracture enemy armor on contact.",48,48,""
-"SGStrangeletGun","Strangelet Gun","A turret weapon firing strangelets that gradually erode conventional defenses.",49,49,""
-"PAPositronAnnihilator","Positron Annihilator","A turret-mounted annihilator that exploits positron collisions for explosive bursts.",50,50,""
-"ADAntiheliumDevastator","Antihelium Devastator","A turret device launching antihelium projectiles to devastate enemy vessels.",51,51,""
-"CFSColorFieldStormGenerator","Color Field Storm Generator","A turret system generating quantum color storms to disorient enemy crews.",52,52,""
-"VEVHiggsFieldModulator","Higgs Field Modulator","A turret add-on modulating Higgs fields to alter enemy mass distributions.",53,53,""
-"VFIVacuumFieldInverter","Vacuum Field Inverter","A turret device inverting vacuum fields to induce catastrophic structural collapse.",54,54,""
-"NSWNaniteSwarmWarhead","Nanite Swarm Warhead","A turret-launched warhead releasing nanite swarms to dismantle enemy systems.",55,55,""
-"AIDAiDisruptor","AI Disruptor","A turret module that confounds enemy targeting through advanced AI disruptions.",56,56,""
-"PSDPropulsionSystemsDisruptor","Propulsion Systems Disruptor","A turret weapon designed to disable enemy propulsion with precision.",57,57,""
-"EGDEnergyGenerationDisruptor","Energy Generation Disruptor","A turret-mounted disruptor targeting enemy power cores for shutdown.",58,58,""
-"WSDWeaponsSystemDisruptor","Weapons System Disruptor","A turret module jamming enemy armaments to render them inoperable.",59,59,""
+---,Name,Description,Damage,Power Requirement,Additional Effects,Weapon Type,Class
+Retro,CX-238 RetroStyker,A turret-mounted retro weapon system with balanced performance for space combat.,1,1,None,Retro,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+RetroAcid,CX-238/CD CorrodeCaster,A turret weapon that fires corrosive rounds to erode enemy hulls in orbital skirmishes.,2,2,None,RetroAcid,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+RetroTitan,CX-238/TN TitanStryke,A heavy turret system delivering crushing strikes for starship battles.,3,3,None,RetroTitan,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+RetroWaste,CX-238/DUW WasteWrecker,A turret-mounted cannon disintegrating enemy shields with toxic blasts.,4,4,None,RetroWaste,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+RetroRailgun,CX-238/M MagRail Enhancer,An advanced turret launcher boosting railgun projectiles for rapid fire in space.,5,5,None,RetroRailgun,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+AAA,OS-X17 FlakStorm Disruptor,A turret that unleashes a storm of flak to disrupt incoming enemy salvos.,6,6,None,AAA,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+AAAWide,OS-X17-W WideBurst eXpander,A turret variant widening its shot spread for effective area denial.,7,7,None,AAAWide,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+AAADense,OS-X17-DH Dense Hail eXpander,A turret-mounted system that fires concentrated bursts for pinpoint suppression.,8,8,None,AAADense,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MLRS,PRS-SB101 Hellfire Launch System,A turret system launching incendiary missiles to scorch enemy spacecraft.,9,9,None,MLRS,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MLRSHeatSeeker,PRS-SB101-ISM Fire Seeker Module,A turret module homing in on heat signatures for fiery target acquisition.,10,10,None,MLRSHeatSeeker,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MLRSIonEngine,PRS-SB101-IE Ion Boost Accelerator,A turret enhancement that accelerates ionized projectiles for rapid impacts.,11,11,None,MLRSIonEngine,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MLRSSonic,PRS-SB101-SRF Sonic Resonator Penetrator,A turret weapon emitting sonic pulses to destabilize enemy armor.,12,12,None,MLRSSonic,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MLRSAcid,PRS-SB101-AES Fluor-Erode Enhancer,A turret system using chemical erosion to gradually wear down enemy defenses.,13,13,None,MLRSAcid,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MLRSFungus,PRS-SB101-FDS Fungal Decelerator,A turret module dispersing spore clouds to slow enemy maneuvers in space.,14,14,None,MLRSFungus,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+LaserRadio,OS-LC100RHI Radiowave Head Inducer,A turret-mounted system that scrambles enemy sensors with radiowave pulses.,15,15,None,LaserRadio,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+LaserMicrowave,OS-LC100RHI-MiM Microwave Intensifier Module,A turret add-on intensifying microwave bursts for internal system damage.,16,16,None,LaserMicrowave,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+LaserAntimissile,OS-LC100RHI-MiA Missile Interceptor Array,A turret variant featuring an array to intercept and neutralize incoming missiles.,17,17,None,LaserAntimissile,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+LaserUV,UVB-PB Ultraviolet-B Penetrator Beam,A turret weapon firing high-energy UV beams to breach enemy shields.,18,18,None,LaserUV,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+LaserXray,X-Ray Pulse Emitter,A turret-mounted emitter delivering focused X-ray pulses for structural weakening.,19,19,None,LaserXray,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+LaserGamma,Gamma-Wave Devastator,A turret system bombarding foes with lethal gamma waves from starship mounts.,20,20,None,LaserGamma,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GuidedMissileNuke,Raven-Guided Plutonium Striker,A turret with advanced guidance launching plutonium strikes on enemy vessels.,21,21,None,GuidedMissileNuke,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GuidedMissileYamato,Magnetically-Focused Detonation Module,A turret module that channels magnetic energy for explosive blasts.,22,22,None,GuidedMissileYamato,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GuidedMissileReombinator,Dual-Stage Nuclear Recombinator Module,A turret-based nuclear system combining stages for catastrophic power.,23,23,None,GuidedMissileReombinator,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GuidedMissileGraviton,Graviton Module,A turret weapon that manipulates gravitational forces to destabilize enemy craft.,24,24,None,GuidedMissileGraviton,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GuidedMissileAntimatter,Antimatter Annihilation Warhead,A turret-launched warhead triggering antimatter reactions for total annihilation.,25,25,None,GuidedMissileAntimatter,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GravityMissile,Gravity Well Missile Launcher,A turret missile system that generates gravity wells to trap targets.,26,26,None,GravityMissile,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GravityMissileSlowBeam,Beam Neutron-Muon to Graviton Beam,A turret-mounted beam converting subatomic particles into crushing graviton force.,27,27,None,GravityMissileSlowBeam,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+GravityRipper,Gravity Ripper,A turret weapon that tears through enemy defenses using gravitational distortions.,28,28,None,GravityRipper,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+Wormhole,Wormhole Projection Missile,A turret missile system capable of projecting wormholes for surprise strikes.,29,29,None,Wormhole,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+WormholeStarGun,Stellar-Core Ejection Module,A turret module ejecting stellar core fragments to batter enemy shields.,30,30,None,WormholeStarGun,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+WormholeNeutronBeam,Neutron-Degenerate Matter Beam,A turret beam firing ultra-dense matter to pierce heavy space armor.,31,31,None,WormholeNeutronBeam,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+WormholeBlackHoleGun,Black Hole Ejection Module,A turret system ejecting micro black holes to absorb enemy fire.,32,32,None,WormholeBlackHoleGun,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+WormholeMicrowormhole,Micro Wormhole Module,A turret add-on generating micro wormholes to bypass enemy defenses.,33,33,None,WormholeMicrowormhole,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MineLauncher,RDX Proximity Mine Launcher,A turret weapon deploying proximity mines to secure its firing arc.,34,34,None,MineLauncher,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MineLauncherNuclear,Plutonium Mine Launcher,A turret system scattering plutonium mines to deter enemy approaches.,35,35,None,MineLauncherNuclear,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MineLauncherGravity,Black Hole Mine Launcher,A turret launcher dropping gravitational mines that pull in targets.,36,36,None,MineLauncherGravity,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MineLauncherTimeDilation,Time-Dilation Mine Launcher,A turret device deploying mines that distort time to slow enemy advances.,37,37,None,MineLauncherTimeDilation,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+MineLauncherCasimir,Casimir Mine Launcher,A turret weapon utilizing quantum effects to launch disruptive Casimir mines.,38,38,None,MineLauncherCasimir,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+Plasma,Pulsed Plasma Cannon,A turret-mounted cannon delivering bursts of superheated plasma energy.,39,39,None,Plasma,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+PlasmaNucleosynthesis,Rapid Nucleosynthesis Accelerator,A turret add-on accelerating nuclear reactions for explosive impacts.,40,40,None,PlasmaNucleosynthesis,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+PlasmaXenon,Xenon Plasma Infuser,A turret system infusing xenon plasma into continuous high-energy beams.,41,41,None,PlasmaXenon,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+Particle,Dual Proton Converger,A turret weapon merging dual proton streams for concentrated power.,42,42,None,Particle,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+ParticleElectron,Electron Beam Converger,A turret-mounted converger firing focused electron beams for precision strikes.,43,43,None,ParticleElectron,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+ParticleGraviton,Graviton Beam Converger,A turret system that combines beams to create overwhelming gravitational overload.,44,44,None,ParticleGraviton,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+ParticleProton,Proton Fusion Cannon,A turret cannon igniting proton fusion reactions to obliterate enemy craft.,45,45,None,ParticleProton,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+ParticleGluon,Glueball Disruptor,A turret-mounted disruptor destabilizing matter with exotic subatomic particles.,46,46,None,ParticleGluon,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+ParticleMonopole,Magnetic Monopole Beam,A turret weapon emitting magnetic monopole beams to distort enemy fields.,47,47,None,ParticleMonopole,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+ParticlePion,Pion Shatter Gun,A turret system using pion emissions to fracture enemy armor on contact.,48,48,None,ParticlePion,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+ParticleStrangelet,Strangelet Gun,A turret weapon firing strangelets that gradually erode conventional defenses.,49,49,None,ParticleStrangelet,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+Antimatter,Positron Annihilator,A turret-mounted annihilator that exploits positron collisions for explosive bursts.,50,50,None,Antimatter,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+AntimatterAntihelium,Antihelium Devastator,A turret device launching antihelium projectiles to devastate enemy vessels.,51,51,None,AntimatterAntihelium,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+AntimatterColourStorm,Color Field Storm Generator,A turret system generating quantum color storms to disorient enemy crews.,52,52,None,AntimatterColourStorm,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+AntimatterHiggsField,Higgs Field Modulator,A turret add-on modulating Higgs fields to alter enemy mass distributions.,53,53,None,AntimatterHiggsField,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+AntimatterAntivacuum,Vacuum Field Inverter,A turret device inverting vacuum fields to induce catastrophic structural collapse.,54,54,None,AntimatterAntivacuum,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+Nanite,Nanite Swarm Warhead,A turret-launched warhead releasing nanite swarms to dismantle enemy systems.,55,55,None,Nanite,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+NaniteAI,AI Disruptor,A turret module that confounds enemy targeting through advanced AI disruptions.,56,56,None,NaniteAI,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+NanitePropulsion,Propulsion Systems Disruptor,A turret weapon designed to disable enemy propulsion with precision.,57,57,None,NanitePropulsion,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+NaniteReactor,Energy Generation Disruptor,A turret-mounted disruptor targeting enemy power cores for shutdown.,58,58,None,NaniteReactor,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'
+NaniteWeapons,Weapons System Disruptor,A turret module jamming enemy armaments to render them inoperable.,59,59,None,NaniteWeapons,/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/SpaceBattle/Units/Ships/BP_Weapon.BP_Weapon_C'

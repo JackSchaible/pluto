@@ -1,0 +1,11 @@
+"---","Type","Air Capacity","Water Capacity","CO2 Capacity","Air Recovery","Water Recovery"
+"Interceptor","Interceptor",35,0,6,0.0,0.0
+"Assault Craft","AssaultCraft",70,0,12,0.0,0.0
+"Corvette","Corvette",1050,1500,0,0.5,0.7
+"Frigate","Frigate",5250,7500,0,0.6,0.75
+"Destroyer","Destroyer",12250,17500,0,0.65,0.8
+"Cruiser","Cruiser",42000,60000,0,0.7,0.85
+"Battlecruiser","Battlecruiser",105000,150000,0,0.75,0.9
+"Battleship","Battleship",280000,400000,0,0.85,0.95
+"Carrier","Carrier",700000,1000000,0,0.9,0.99
+"Dreadnought","Dreadnought",3500000,5000000,0,0.95,0.99

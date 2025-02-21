@@ -1,0 +1,52 @@
+---,Name,Description,Functions,Power Consumption
+Habitation Module,Habitation Module,Provides living quarters for crew.,,500
+Advanced Habitation Module,Advanced Habitation Module,Enhanced comfort and automation in living quarters.,,750
+High-Density Habitation Module,High-Density Habitation Module,Optimized for maximum crew capacity at reduced comfort.,,650
+Bridge Module,Bridge Module,Central command module for ship operations.,,1000
+Automated Bridge Module,Automated Bridge Module,"Reduces required crew, relying on advanced AI control.",,1200
+TCC Module,TCC Module,Tactical Command and Control module for fleet operations.,,1500
+AI Matrix,AI Matrix,Advanced AI core for decision-making and ship management.,,1800
+Expanded TCC,Expanded TCC,Increased processing power for large-scale fleet command.,,2000
+Sick Bay,Sick Bay,Basic medical facilities for treating minor injuries.,,600
+Med Bay,Med Bay,Fully equipped medical facility with automated diagnosis.,,800
+Zero-G Therapy Module,Zero-G Therapy Module,Medical treatments optimized for microgravity conditions.,,850
+Surgical Suite,Surgical Suite,Advanced surgical capabilities with robotic assist.,,1000
+Mess Hall,Mess Hall,Crew dining area with food preparation facilities.,,400
+Nutritional Additives,Nutritional Additives,Automated supplementation for enhanced diet.,,500
+Captain's Quarters & Executive Staff Quarters,Captain's Quarters & Executive Staff Quarters,Private quarters for command staff.,,450
+Executive Spa,Executive Spa,Luxury wellness and relaxation area for officers.,,700
+Engineering Module,Engineering Module,Core engineering space for ship maintenance and power management.,,2000
+Solar Nucleosynthesis Module,Solar Nucleosynthesis Module,Generates energy using controlled stellar reactions.,,2500
+Fission-Powered Antihydrogen Microfactory,Fission-Powered Antihydrogen Microfactory,Produces antihydrogen for advanced propulsion.,,3000
+Casimir Field Generator,Casimir Field Generator,Creates quantum energy fields for experimental physics.,,3500
+Wormhole Positron Siphon,Wormhole Positron Siphon,Harvests exotic particles for power generation.,,4000
+Life Support Module,Life Support Module,Maintains atmospheric and water recycling systems.,,800
+Aerosolized Additives,Aerosolized Additives,Enhances crew well-being through environmental treatments.,,600
+Stealth Module,Stealth Module,Reduces ship's detectability through active emissions masking.,,1500
+Phase Module,Phase Module,Allows partial phasing to reduce sensor signature.,,2000
+Bioreactor Module,Bioreactor Module,Processes organic waste into useful biomaterials.,,1000
+Bacterial Solid Waste Recycler,Bacterial Solid Waste Recycler,Breaks down solid waste into reusable nutrients.,,900
+Bacterial Hydrogen Production,Bacterial Hydrogen Production,Generates hydrogen fuel through bacterial fermentation.,,1100
+Fungal Oxygen Recycler,Fungal Oxygen Recycler,Uses fungi to enhance atmospheric recycling.,,1000
+Fungal Positron Production,Fungal Positron Production,Generates antimatter particles using fungal bioprocesses.,,2500
+Retroviral Therapy Module,Retroviral Therapy Module,Genetic therapy to enhance crew performance.,,1800
+Health-Enhancing Therapy Module,Health-Enhancing Therapy Module,Boosts crew immune systems and physical endurance.,,2000
+Strength-Enhancing Therapy Module,Strength-Enhancing Therapy Module,Increases crew muscle mass and stamina.,,2200
+Memory-Enhancing Therapy Module,Memory-Enhancing Therapy Module,Enhances cognitive function and memory retention.,,2500
+Personality-Adjusting Therapy Module,Personality-Adjusting Therapy Module,Modifies psychological traits for optimized teamwork.,,2300
+Cargo Bay Module,Cargo Bay Module,Storage for ship supplies and materials.,,500
+Bussard Ramjet,Bussard Ramjet,Harvests interstellar hydrogen for fuel.,,1200
+Compressed Material Storage,Compressed Material Storage,High-density storage for raw materials.,,700
+Sorting Crane,Sorting Crane,Automated system for cargo management.,,600
+Ferrous Magnetic Containment Storage Module,Ferrous Magnetic Containment Storage Module,Secure containment for magnetic-sensitive cargo.,,800
+Gravitationally-Compressed Material Storage,Gravitationally-Compressed Material Storage,Uses gravity fields to compact cargo.,,900
+Wormhole Storage Module,Wormhole Storage Module,Stores materials in pocket dimensions.,,2000
+Hangar Bay Module,Hangar Bay Module,Docking and maintenance area for small craft.,,2500
+Natural Lighting Module,Natural Lighting Module,Artificial sunlight system for improved crew morale.,,400
+Listening Room,Listening Room,Private space for crew to unwind with music.,,200
+Observatory,Observatory,High-resolution telescopes for astronomical observations.,,500
+Gym,Gym,Physical fitness area for crew health.,,700
+Library,Library,Digital and physical archive of knowledge.,,300
+Crew Retraining Module,Crew Retraining Module,Simulated learning environment for skill development.,,1000
+Cloning Module,Cloning Module,Produces genetically identical crew replacements.,,3000
+Security Room,Security Room,Monitoring and rapid response station for internal threats.,,800
